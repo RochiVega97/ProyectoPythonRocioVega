@@ -1,5 +1,7 @@
 # ProyectoPythonRocioVega
 
+Participantes: Rocio Marina Vega
+
 El presente proyecto consiste de una pagina sobre la plataforma Curso que permite al usuario acceder a inforamcion como:
 -Estudiantes (http://127.0.0.1:8000/AppCoder/estudiantes)
 -Cursos (http://127.0.0.1:8000/AppCoder/cursos)
